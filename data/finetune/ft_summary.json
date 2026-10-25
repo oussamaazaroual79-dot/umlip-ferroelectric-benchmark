@@ -1,0 +1,1 @@
+{"foundation": "macempa0mediummodel", "n_train": 189, "n_valid": 20, "foundation_model_elements": "True", "loss": "universal", "energy_weight": 10.0, "forces_weight": 10.0, "stress_weight": 100.0, "lr": 0.005, "batch_size": 4, "max_num_epochs": 200, "patience": 40, "ema_decay": 0.99, "default_dtype": "float64", "seed": 1, "mace_version": "0.3.16", "train_minutes": 60}

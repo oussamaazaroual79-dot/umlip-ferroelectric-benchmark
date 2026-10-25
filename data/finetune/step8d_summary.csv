@@ -1,0 +1,2 @@
+xc,pseudo,material,phase,E_eV,a,b,c,alpha,beta,gamma,c_over_a,volume,B_offcentre_A,spg_final,converged,time_s,dE_meV_per_fu
+pbe,gbrv,PbTiO3,P4mm,-5180.012028043485,3.839444513,3.839444513,4.772212287,90.0,90.0,90.0,1.242943418205872,70.34877604523915,0.28081248930000013,P4mm (99),True,2086,
